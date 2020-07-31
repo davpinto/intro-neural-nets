@@ -1,0 +1,11 @@
+ipykernel
+numpy
+matplotlib
+pandas
+scikit-learn 
+tensorflow 
+keras
+plotnine
+plotly
+nbformat
+pydot
